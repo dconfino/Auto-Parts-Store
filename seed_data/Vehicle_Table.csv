@@ -1,0 +1,21 @@
+Vehicle_id,unique_vehicle_id,Vehicle_type,make,model,year,trim,color,populated_on
+661028,401165,Luxury,BMW,3 Series,2018,1,Red,9/20/2018
+745979,346025,Luxury,BMW,4 Series,2017,2,Blue,9/20/2018
+769475,149196,Luxury,BMW,5 Series,2016,3,Green,9/20/2018
+782192,313151,SUV,Jeep,Wrangler,2018,4,White,9/20/2018
+775737,139026,SUV,Jeep,grand cherokee,2017,1,Grey,9/20/2018
+747284,424397,SUV,Jeep,Cherokee,2016,2,Red,9/20/2018
+727988,191326,Sedan,Honda,CRV,2018,3,Blue,9/20/2018
+686876,324983,Sedan,Honda,Accord,2017,4,Green,9/20/2018
+775248,288820,Sedan,Honda,Civic,2016,1,White,9/20/2018
+804567,387328,Sedan,Kia,Sentra,2018,2,Grey,9/20/2018
+704926,136960,Sedan,Kia,Optima,2017,3,Red,9/20/2018
+686578,496409,Sedan,Toyota,Camery,2016,4,Blue,9/20/2018
+653290,384208,Sedan,Toyota,Highlander,2018,1,Green,9/20/2018
+653890,230743,Sedan,Toyota,4Runner,2017,2,White,9/20/2018
+701258,131740,SUV,Chevrolet,Cruz,2016,3,Grey,9/20/2018
+619708,172524,SUV,Chevrolet,Equinox,2018,4,Red,9/20/2018
+839833,481230,Sports,Dodge,Challenger,2017,1,Blue,9/20/2018
+621230,138926,Sports,Dodge,Hell Cat,2016,2,Green,9/20/2018
+639548,165648,Luxury,Cadillac,CT6,2018,3,White,9/20/2018
+702202,269101,Luxury,Cadillac,XTS,2017,4,Grey,9/20/2018
